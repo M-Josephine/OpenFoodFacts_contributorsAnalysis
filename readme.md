@@ -1,7 +1,7 @@
 Open Food Facts is a free, online and crowdsourced database of food products from all around the world. The project gathers information and data on food products. 
 Each contributor can add or edit food items based on the information explicitly shown on the package. https://world.openfoodfacts.org/
 
-This projects aimed to know Open food facts contributors better and to enable a future gamification. 
+This project aimed to know Open food facts contributors better and to enable a future gamification. 
 The objective was to build a contributors track tool. 
 
 Process:
